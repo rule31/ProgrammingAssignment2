@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Create a special object class that holds the methods and variable for
+## cached inverse object.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
